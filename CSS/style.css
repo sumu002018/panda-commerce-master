@@ -1,0 +1,71 @@
+.orange-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.buy-now {
+  background-image: linear-gradient(to bottom, #ff136f, #ff5898);
+  color: white;
+  padding: 5px 15px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: 1px;
+}
+.container {
+  margin-bottom: 100px;
+}
+.cat-1 {
+  background-color: orange;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.cat-2 {
+  background-color: orchid;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.cat-3 {
+  background-color: blue;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.catagories h1 {
+  color: white;
+}
+.catagories img {
+  width: 100px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightslategray;
+  transition: 1s;
+}
+.card:hover {
+  transition: 0.5s;
+  transform: scale(1.03);
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+.subscribe {
+  background-color: pink;
+  border-radius: 5px;
+  height: 300px;
+}
+.email {
+  border-radius: 5px;
+}
+.submit {
+  background-image: linear-gradient(to bottom, #ff136f, #ff5898);
+  color: white;
+  padding: 5px 15px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: 1px;
+}
